@@ -1,0 +1,9 @@
+Frames:
+
+kastomtkinter
+pil
+tkinter
+
+To start thhe programm load python on your pc and start your ide
+
+copy all of the files in the correct order, install all of the frameworks with pip install
